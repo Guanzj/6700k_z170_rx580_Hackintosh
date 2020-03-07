@@ -1,7 +1,7 @@
 <!--
  * @Author: moonmist.guan
  * @Date: 2020-03-06 20:36:00
- * @LastEditTime: 2020-03-07 19:51:07
+ * @LastEditTime: 2020-03-07 19:52:33
  * @FilePath: /undefined/Users/moonmist/OneDrive/Code/6700k_z170_rx580_Hackintosh/README.md
  * @Description: 
  -->
@@ -48,7 +48,7 @@
 
 
 
-![](http://ww2.sinaimg.cn/large/006tNc79gy1g5w0vrvzw2j319g0u0dlr.jpg)
+![](https://github.com/Guanzj/6700k_z170_rx580_Hackintosh/blob/master/%E6%88%AA%E5%9B%BE/systemInfo.png)
 
 
 
