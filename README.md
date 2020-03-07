@@ -1,16 +1,16 @@
 <!--
  * @Author: moonmist.guan
  * @Date: 2020-03-06 20:36:00
- * @LastEditTime: 2020-03-07 19:52:33
+ * @LastEditTime: 2020-03-07 19:58:39
  * @FilePath: /undefined/Users/moonmist/OneDrive/Code/6700k_z170_rx580_Hackintosh/README.md
  * @Description: 
  -->
 
-# 6700k+z170a+rx580黑苹果EFI
+# 6700k+Z170-A+RX580黑苹果EFI
 
 [![standard-readme compliant](https://img.shields.io/badge/readme%20style-standard-brightgreen.svg?style=flat-square)](https://github.com/RichardLitt/standard-readme)
 
-因为开发需要使用Mac，所以在原先的组装机上装了黑苹果，经过一段时间测试，各项功能基本良好，适配于macOS Catalina 10.15.3，本方案是在大量前人经验基础上总结得到到，感谢他们的辛勤付出
+
 
 
 ## Table of Contents
@@ -22,8 +22,7 @@
 
 ## Background
 
-作为一名程序员，有记笔记的习惯但是很惭愧一直没有自己的博客，正好借此机会开发一套适合自己需求的blog框架
-
+因为开发需要使用Mac，所以在原先的组装机上装了黑苹果，经过一段时间测试，各项功能基本良好，适配于macOS Catalina 10.15.3，本方案是在大量前人经验基础上总结得到到，感谢他们的辛勤付出
 
 
 ## Install
@@ -54,9 +53,9 @@
 
 
 
-黑苹果镜像下载地址:https://blog.daliansky.net/macOS-Catalina-10.15.3-19D76-Release-version-with-Clover-5103-original-image-Double-EFI-Version.html
+黑苹果镜像下载地址:
+https://blog.daliansky.net/macOS-Catalina-10.15.3-19D76-Release-version-with-Clover-5103-original-image-Double-EFI-Version.html
 
-镜像[下载](https://blog.daliansky.net/macOS-Catalina-10.15.3-19D76-Release-version-with-Clover-5103-original-image-Double-EFI-Version.html)
 
 
 
@@ -65,9 +64,11 @@
 
 |  类别  |   型号    |  状态  | 其他                                                         |
 | :----: | :-------: | :----: | :----------------------------------------------------------- |
-| 处理器 | i7-6700k |  正常  |       变频正常，平衡性能与功耗                                                       |
-|  屏幕  |    2台显示器     |  正常  | 1台27 1080P，1台34 1080p，显示正常，可以一键开启HDIP                                                 |
+| 处理器 | i7-6700k |  正常  |       变频正常，平衡性能与功耗|
+|  屏幕  |    2台显示器     |  正常  | 1台27 1080P，1台34 1080p，显示正常，可以一键开启HDIP |
 |  显卡  |   RX580   |  正常  | 使用的是RX580 8G 2304sp满血版，显卡功能正常，日常功耗60w|
+|内存|56G|1正常|使用大内存就是爽，日常占用15%以下，为IDE和PT可分配大量缓存|
+|硬盘|14T+512G|正常|使用2块3T，1块8T机械盘，512固态，全部使用正常，硬盘睡眠正常，确实静音不少|
 |  睡眠  |           |  正常  | 睡眠正常，可正常唤醒，偶发关机重启 |
 |  USB   |           |  正常  | 所有usb接口和速度正常                                   |
 |	雷电3  ||待验|理论正常，但是手头没有设备测试|
